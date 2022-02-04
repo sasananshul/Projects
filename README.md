@@ -1,2 +1,2 @@
 # Projects
-Requires Python 3 or above to run
+Require Python 3 or above to run
